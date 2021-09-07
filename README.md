@@ -4,3 +4,5 @@
 
 [![Contribution Check - Git Inspector](https://github.com/kaptanhawk007/STEPIN_Kaptan_Yadav_MiniProject/actions/workflows/gitInspector.yml/badge.svg)](https://github.com/kaptanhawk007/STEPIN_Kaptan_Yadav_MiniProject/actions/workflows/gitInspector.yml)
 
+
+[![Code Quality - Static Code - Cppcheck](https://github.com/kaptanhawk007/STEPIN_Kaptan_Yadav_MiniProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/kaptanhawk007/STEPIN_Kaptan_Yadav_MiniProject/actions/workflows/cppcheck.yml)
