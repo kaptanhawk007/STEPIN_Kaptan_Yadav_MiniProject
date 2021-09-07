@@ -1,4 +1,4 @@
-# STEPIN_Kaptan_Yadav_MiniProject
+# STEPIN_MiniProject
 
 [![C/C++ CI- Build Status](https://github.com/kaptanhawk007/STEPIN_Kaptan_Yadav_MiniProject/actions/workflows/main.yml/badge.svg)](https://github.com/kaptanhawk007/STEPIN_Kaptan_Yadav_MiniProject/actions/workflows/main.yml)
 
@@ -12,7 +12,7 @@
 Folder             | Description
 -------------------| -----------------------------------------
 `1_Requirements`   | Documents detailing requirements and research
-`2_Design`         | Documents specifying design details
+`2_Architecture`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 `5_Report`      | Supporting Documents
